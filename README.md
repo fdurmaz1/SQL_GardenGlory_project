@@ -1,1 +1,3 @@
 # SQL_GardenGlory_project
+
+The "GardenGlory" project encompasses a comprehensive database system designed to manage garden property and owner information. It involves the creation of a structured database with detailed tables for owners (OWNERR) and owned properties (OWNED_PROPERTY), among others. The project includes scripts for establishing the database structure, populating it with sample data about owners and properties, and executing nuanced SQL queries for specific data retrieval, like extracting employee details based on experience or property location. This project serves as a practical application of SQL in managing and querying complex relational databases in a real-world context.
